@@ -2,7 +2,7 @@
 
 ImageDirMeta displays metadata about pictures and directories containing pictures. Reads all metadata on first scan, ignores non-image files in directories.
 
-Currently parsing: GIF (single images, no animations, JPEG
+Currently parsing: GIF (single images, no animations), JPEG
 
 ## Building
 This project uses Gradle version 4 or greater to build. If a local gradle is not installed, use the included wrapper `./gradlew` (for Linux) or `gradlew.bat` (for Windows)
